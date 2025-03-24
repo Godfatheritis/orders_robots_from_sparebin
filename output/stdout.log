@@ -1,0 +1,34 @@
+
+Collecting tasks from: tasks.py
+================== Running: [96morders_robots_from_RobotSpareBin[0m ===================
+Order successful
+Order successful
+Order successful
+Order failed, trying again
+Order failed, trying again
+Order successful
+Order failed, trying again
+Order successful
+Order successful
+Order successful
+Order successful
+Order successful
+Order successful
+Order successful
+Order successful
+Order failed, trying again
+Order failed, trying again
+Order failed, trying again
+Order failed, trying again
+Order successful
+Order successful
+Order successful
+Order successful
+Order successful
+Order successful
+Order failed, trying again
+Order successful
+Order successful
+[96morders_robots_from_RobotSpareBin[0m status: PASS
+================================================================================
+Robocorp Log (html): c:\Users\KIIT\OneDrive\Desktop\Robot Automations\my-rsb-robot\output\log.html
