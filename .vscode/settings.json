@@ -1,0 +1,6 @@
+{
+  "python.terminal.activateEnvironment": false,
+  "python.analysis.extraPaths": [
+    "c:/Users/KIIT/OneDrive/Desktop/Robot Automations/my-rsb-robot/."
+  ]
+}
